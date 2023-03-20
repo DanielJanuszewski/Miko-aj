@@ -1,0 +1,10 @@
+.nav {
+    display: flex;
+    gap: 20px;
+    background-color: rgb(255, 0, 0);
+    color: azure;
+   
+}
+p {
+    color: #2E86AB;
+}
